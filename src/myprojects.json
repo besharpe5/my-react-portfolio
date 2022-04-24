@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Budget Tracker",
+      "description": "Built with PWA, IndexedDB",
+      "github": "https://github.com/besharpe5/budget_tracker",
+      "deployed": "https://young-escarpment-18081.herokuapp.com/",
+      "image": "budget-tracker"
+    },
+    {
+      "id": 2,
+      "name": "Social Network API",
+      "description": "Built with NoSQL, Express.js, MongoDB, Mongoose ODM",
+      "github": "https://github.com/besharpe5/social_network_api",
+      "deployed": "https://drive.google.com/file/d/1XkEs3fsHDmXyk_NUkMUx4_8gNRX1Qu6f/view?usp=sharing",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Plant Pal",
+      "description": "Built with Handlebars.js, Node.js, Express.js, MySQL",
+      "github": "https://github.com/besharpe5/plant_pal",
+      "deployed": "https://plant-pal-project.herokuapp.com/",
+      "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Pursuit of Hoppyness",
+        "description": "Built with HTML, CSS, Javascript, Tailwind, Moment.js, Yelp API, OpenBrewery API",
+        "github": "https://github.com/besharpe5/pursuit-of-hoppyness",
+        "deployed": "https://emilyadarr.github.io/pursuit-of-hoppyness/",
+        "image": ""
+      },
+    {
+      "id": 5,
+      "name": "Tech Blog",
+      "description": "Built with MVC, Handlebars.js, Sequelize",
+      "github": "https://github.com/besharpe5/tech_blog",
+      "deployed": "https://gentle-sierra-89831.herokuapp.com/",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Weather Dashboard",
+      "description": "Built with HTML, CSS, JavaScript, Open Weather One Call API",
+      "github": "https://github.com/besharpe5/weather_dashboard",
+      "deployed": "https://besharpe5.github.io/weather_dashboard/",
+      "image": ""
+    }  
+  ]
