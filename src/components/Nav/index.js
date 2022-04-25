@@ -32,7 +32,7 @@ function Nav({ currentPage, handlePageChange }) {
                     </li>
                     <li className="mx-2 my-1 nav-item">
                         <a 
-                            href="#contact" onClick={() => handlePageChange("Contaact")}
+                            href="#contact" onClick={() => handlePageChange("Contact")}
                             className={currentPage === "Contact" ? "nav-link-active" : "nav-link"}
                         >
                             Contact Me
