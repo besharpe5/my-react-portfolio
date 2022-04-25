@@ -22,8 +22,9 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  color: var(--primary-color);
-  font-family: 'Roboto', sans-serif;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  font-family: 'Georgia', serif;
 
 }
 
@@ -33,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Georgia', serif;
   font-weight: 800;
   margin: 5px 0;
   line-height: 1.25;
@@ -83,13 +84,13 @@ a:hover {
 }
 
 header {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
   padding: 50px 40px 30px 40px;
 
 }
 
 footer {
-  background: var(--primary-color);
+  background: var(--tertiary-color);
   padding: 30px 0px;
 }
 .footer {
@@ -152,10 +153,10 @@ nav  li {
 }
 
 .nav-link {
-  background: var(--primary-color);
+  background: var(--secondary-color);
 	border: 0;
 	border-radius: 5px;
-	color: var(--secondar-color);
+	color: var(--primary-color);
 	cursor: pointer;
 	font-size: 16px;
 	font-weight: 600;
@@ -328,7 +329,7 @@ button {
 
 a {
 	border-radius: 5px;
-	color: var(--primary-color);
+	color: var(--secondary-color);
 	font-weight: 600;
 	padding: 2px 4px;
 	margin-left: -2px;

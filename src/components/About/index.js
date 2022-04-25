@@ -1,5 +1,5 @@
 import React from 'react';
-import profilepic from '../../assets/images//Users/bensharpe/my-react-portfolio/src/assets/images/clayhousephotography-indiana-photographer-ritz-charles-Sharpe-FirstLook-91.png'; //
+import profilepic from '../../assets/images/clayhousephotography-indiana-photographer-ritz-charles-Sharpe-FirstLook-91.png'; //
 
 function About() {
     return (

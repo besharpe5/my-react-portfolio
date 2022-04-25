@@ -11,7 +11,7 @@ const Project = (props) => {
           alt={props.name} 
           imgSrc={require(`../../assets/images/${props.image}.jpg`)}
           bgColor='#fefae0'
-          position='right'
+          position='left'
           width='375px'
           height='250px'
           fSize='10px'
