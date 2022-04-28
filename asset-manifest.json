@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.82df7122.css",
-    "main.js": "/my-react-portfolio/static/js/main.2e83b432.js",
+    "main.css": "/my-react-portfolio/static/css/main.387b4fea.css",
+    "main.js": "/my-react-portfolio/static/js/main.efa6b902.js",
     "static/js/787.56d9acf9.chunk.js": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/clayhousephotography-indiana-photographer-ritz-charles-Sharpe-FirstLook-91.png": "/my-react-portfolio/static/media/clayhousephotography-indiana-photographer-ritz-charles-Sharpe-FirstLook-91.8bc76d3aaaeef6770a46.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.82df7122.css.map": "/my-react-portfolio/static/css/main.82df7122.css.map",
-    "main.2e83b432.js.map": "/my-react-portfolio/static/js/main.2e83b432.js.map",
+    "main.387b4fea.css.map": "/my-react-portfolio/static/css/main.387b4fea.css.map",
+    "main.efa6b902.js.map": "/my-react-portfolio/static/js/main.efa6b902.js.map",
     "787.56d9acf9.chunk.js.map": "/my-react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82df7122.css",
-    "static/js/main.2e83b432.js"
+    "static/css/main.387b4fea.css",
+    "static/js/main.efa6b902.js"
   ]
 }
