@@ -4,12 +4,11 @@ import 'image-overlay-react/dist/index.css'
 import { FaGithub } from 'react-icons/fa'
 
 const Project = (props) => {
-
   return (
     <div className='my-2 mx-2'>
         <ImgOverlay 
           alt={props.name} 
-          imgSrc={require(`../../assets/images/${props.image}.jpg`)}
+          imgSrc={(`../../assets/images/${props.image}`).default}
           bgColor='#fefae0'
           position='left'
           width='375px'

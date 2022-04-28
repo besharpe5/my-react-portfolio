@@ -5,7 +5,7 @@
       "description": "Built with PWA, IndexedDB",
       "github": "https://github.com/besharpe5/budget_tracker",
       "deployed": "https://young-escarpment-18081.herokuapp.com/",
-      "image": "budget-tracker"
+      "image": "src/assets/images/budget-tracker.jpg"
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "description": "Built with Handlebars.js, Node.js, Express.js, MySQL",
       "github": "https://github.com/besharpe5/plant_pal",
       "deployed": "https://plant-pal-project.herokuapp.com/",
-      "image": ""
+      "image": "plant-pal-screenshot.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "Built with HTML, CSS, Javascript, Tailwind, Moment.js, Yelp API, OpenBrewery API",
         "github": "https://github.com/besharpe5/pursuit-of-hoppyness",
         "deployed": "https://emilyadarr.github.io/pursuit-of-hoppyness/",
-        "image": ""
+        "image": "pursuit-of-hoppyness-screenshot.jpg"
       },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "description": "Built with MVC, Handlebars.js, Sequelize",
       "github": "https://github.com/besharpe5/tech_blog",
       "deployed": "https://gentle-sierra-89831.herokuapp.com/",
-      "image": ""
+      "image": "tech-blog.jpg"
     },
     {
       "id": 6,
@@ -45,6 +45,6 @@
       "description": "Built with HTML, CSS, JavaScript, Open Weather One Call API",
       "github": "https://github.com/besharpe5/weather_dashboard",
       "deployed": "https://besharpe5.github.io/weather_dashboard/",
-      "image": ""
+      "image": "weather-dashboard.jpg"
     }  
   ]
