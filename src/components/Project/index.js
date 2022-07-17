@@ -8,7 +8,7 @@ const Project = (props) => {
     <div className='my-2 mx-2'>
         <ImgOverlay 
           alt={props.name} 
-          imgSrc={(`../../assets/images/${props.image}`).default}
+          imgSrc={(`../../assets/images/${props.image}`).jpg}
           bgColor='#fefae0'
           position='left'
           width='375px'
